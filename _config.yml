@@ -105,7 +105,7 @@ theme: ayer
 deploy:
   type: git
   repository:
-    #github: git@github.com:xyguo0610/xyguo.github.io.git还可以github也一起
-    coding: git@e.coding.net:xyguo0610/myblog/xyguo.git
+    github: git@github.com:xyguo0610/xyguo.github.io.git
+    #coding: git@e.coding.net:xyguo0610/myblog/xyguo.git
   branch: master
 
